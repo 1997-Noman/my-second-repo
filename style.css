@@ -1,3 +1,17 @@
 p{
     color: rebeccapurple;
 }
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border-left: 50px;
+    display: inline-block;
+    
+}
+#happy{
+    border: rebeccapurple;
+    
+    margin-left: 1300px;
+    margin-top: 200px;
+}
